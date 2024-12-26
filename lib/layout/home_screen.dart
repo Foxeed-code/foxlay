@@ -73,7 +73,7 @@ class _HomeScreenState extends State<HomeScreen> {
     'Pineapple',
     'Raspberries',
     'Strawberries',
-    'Watermelon',
+    'Watermelon pieces',
   ];
 
   List<PlutoColumn> columns = [
