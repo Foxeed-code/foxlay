@@ -376,7 +376,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                   style: TextStyle(fontSize: 13, color: AppStyles.c1),
                                 ),
                                 Text(
-                                  'Git Appointment',
+                                  'Appointment',
                                   style: TextStyle(fontSize: 13, color: AppStyles.c1),
                                 )
                               ],
