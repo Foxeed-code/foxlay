@@ -89,6 +89,7 @@ class _Screen1State extends State<Screen1> with WidgetsBindingObserver {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
+                  Text("My Branch Test", style: TextStyle(fontSize: 20)),
                   Text(ExampleText.homeTitle, style: TextStyle(fontSize: 20)),
                   SizedBox(height: 15),
                   Text(ExampleText.homeDesc1),
