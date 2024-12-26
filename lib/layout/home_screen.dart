@@ -78,7 +78,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   List<PlutoColumn> columns = [
     /// Text Column definition
-    PlutoColumn(title: 'TEXT COLUMN', backgroundColor: AppStyles.c2, field: 'text_field', type: PlutoColumnType.text(), readOnly: true, suppressedAutoSize: true),
+    PlutoColumn(title: 'TEXT COLUMN GitHub', backgroundColor: AppStyles.c2, field: 'text_field', type: PlutoColumnType.text(), readOnly: true, suppressedAutoSize: true),
 
     /// Number Column definition
     PlutoColumn(
