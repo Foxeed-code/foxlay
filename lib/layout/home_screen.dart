@@ -62,7 +62,7 @@ class _HomeScreenState extends State<HomeScreen> {
     'Grapes',
     'Grapefruit',
     'Guava',
-    'Kiwi',
+    'Kiwi fruit',
     'Lychee',
     'Mango',
     'Orange',
